@@ -1,3 +1,3 @@
-# School-Website
+# School-Website as colloge web dev project
 it is a simple school website...
 It has some basic features 
